@@ -31,6 +31,6 @@
 </details>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=eunhuit&theme=dark&hide_border=true)](https://git.io/streak-stats)
-![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ixxeh_p)(https://solved.ac/ixxeh_p)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ixxeh_p)](https://solved.ac/ixxeh_p)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&random=false&width=435&lines=Computers+don't+lie+to+you.)](https://git.io/typing-svg)
 
