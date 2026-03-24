@@ -21,5 +21,11 @@
 
 ![hyper-v](https://img.shields.io/badge/hyper─V-0078D6?style=for-the-badge&logo=hyper-v&logoColor=white) ![vmware](https://img.shields.io/badge/vmware-607078?style=for-the-badge&logo=vmware&logoColor=white) ![able](https://img.shields.io/badge/Ablestack-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Couple%20with%20Heart%20Woman%2C%20Man%2C%20Light%20Skin%20Tone.png" alt="Couple with Heart Woman, Man, Light Skin Tone" width="25" height="25" /> My better half
+
+<a href="https://github.com/somin-1214">
+  <img src="https://github.com/somin-1214.png" width="50" height="50" alt="somin-1214" style="border-radius:50%;"/>
+</a>
+
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ixxeh_p)](https://solved.ac/ixxeh_p)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&random=false&width=435&lines=Computers+don't+lie+to+you.)](https://git.io/typing-svg)
