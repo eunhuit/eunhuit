@@ -23,9 +23,13 @@
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Couple%20with%20Heart%20Woman%2C%20Man%2C%20Light%20Skin%20Tone.png" alt="Couple with Heart Woman, Man, Light Skin Tone" width="25" height="25" /> My better half
 
-<a href="https://github.com/somin-1214">
-  <img src="https://github.com/somin-1214.png" width="50" height="50" alt="somin-1214" style="border-radius:50%;"/>
+<a href="https://github.com/somin-1214" style="text-decoration: none; color: inherit;">
+  <img src="https://github.com/somin-1214.png" width="80" height="80" style="vertical-align: middle; border-radius: 50%;" alt="프로필 사진"/>
+  <span style="vertical-align: middle; margin-left: 8px;"><b>김소민</b> (@somin-1214)</span>
 </a>
 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Astronaut.png" alt="Man Astronaut" width="25" height="25" /> MY Level
+
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ixxeh_p)](https://solved.ac/ixxeh_p)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&random=false&width=435&lines=Computers+don't+lie+to+you.)](https://git.io/typing-svg)
