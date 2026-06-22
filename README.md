@@ -21,11 +21,6 @@
 
 ![hyper-v](https://img.shields.io/badge/hyper─V-0078D6?style=for-the-badge&logo=hyper-v&logoColor=white) ![vmware](https://img.shields.io/badge/vmware-607078?style=for-the-badge&logo=vmware&logoColor=white) ![able](https://img.shields.io/badge/Ablestack-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
-<a href="https://github.com/somin-1214" style="text-decoration: none; color: inherit;">
-  <img src="https://github.com/somin-1214.png" width="80" height="80" style="vertical-align: middle; border-radius: 50%;" alt="프로필 사진"/>
-  <span style="vertical-align: middle; margin-left: 8px;"><b>김소민</b> (@somin-1214)</span>
-</a>
-
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Astronaut.png" alt="Man Astronaut" width="25" height="25" /> MY Level
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ixxeh_p)](https://solved.ac/ixxeh_p)
